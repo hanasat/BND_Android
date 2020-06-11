@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "982286347623",
+    "firebase_url": "https://rndproject-b9ed1.firebaseio.com",
+    "project_id": "rndproject-b9ed1",
+    "storage_bucket": "rndproject-b9ed1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982286347623:android:f22a6cbf0a7eba482653c2",
+        "android_client_info": {
+          "package_name": "com.hsati.bndproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982286347623-n8noulg7hh0n0gejqgcjal50aad0o8jn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNHWkoEZrIOWaYfKofOdK0Idcu5AfiOmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982286347623-n8noulg7hh0n0gejqgcjal50aad0o8jn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
